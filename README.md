@@ -1,4 +1,4 @@
-<img width="962" height="646" alt="image" src="https://github.com/user-attachments/assets/3696ec66-0609-4c5a-bf83-5a8268bcc2d9" />
+<img width="1010" height="657" alt="image" src="https://github.com/user-attachments/assets/c9ab0749-54ff-4198-b296-2c142f055503" />
 # Academic-Research-Survey-Data-Analysis-Tool
 # Student Survey Research Dashboard
 
